@@ -195,6 +195,7 @@ New Features
   * Enable virtual queues
   * Added statistics support
   * Added age rte flow action support
+  * Added meter flow metering and flow policy support
 
 * **Updated NVIDIA mlx5 net driver.**
 
