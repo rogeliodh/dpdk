@@ -198,6 +198,7 @@ New Features
   * Added meter flow metering and flow policy support
   * Added flow actions update support
   * Added asynchronous flow support
+  * Added MTU update
 
 * **Updated NVIDIA mlx5 net driver.**
 
