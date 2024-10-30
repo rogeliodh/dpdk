@@ -197,6 +197,7 @@ New Features
   * Added age rte flow action support
   * Added meter flow metering and flow policy support
   * Added flow actions update support
+  * Added asynchronous flow support
 
 * **Updated NVIDIA mlx5 net driver.**
 
