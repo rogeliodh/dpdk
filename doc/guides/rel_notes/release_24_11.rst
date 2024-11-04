@@ -205,6 +205,12 @@ New Features
   * Added ``rte_flow_async_create_by_index_with_pattern()`` support.
   * Added jump to flow table index support.
 
+* **Updated ZTE zxdh net driver [EXPERIMENTAL].**
+
+  * Added ethdev driver support for zxdh NX Series Ethernet Controller.
+    - Ability to initialize the NIC
+    - Does not support datapath
+
 * **Added cryptodev queue pair reset support.**
 
   A new API ``rte_cryptodev_queue_pair_reset`` is added
